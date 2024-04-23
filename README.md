@@ -1,4 +1,4 @@
-###1.
+### 1.A/B Testing
 ```markdown
 # Comparison of Conversion Rates of Bidding Methods with A/B Testing
 
@@ -61,11 +61,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Thanks to bombabomba.com for providing the datasets and the opportunity to analyze their marketing strategies.
 ```
 
-Feel free to modify any sections to better fit your project's specifics or add any additional sections that may be relevant, such as a section on how to contribute or specific acknowledgments.
 
-###2.
-Here's a comprehensive README.md template for your GitHub project on "Rating Product & Sorting Reviews in Amazon". This template will help you effectively document and share details about your project.
-
+### 2. Rating Products and Sorting Reviews
 ```markdown
 # Project: Rating Product & Sorting Reviews in Amazon
 
