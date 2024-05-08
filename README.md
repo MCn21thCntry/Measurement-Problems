@@ -1,5 +1,3 @@
-Here's a combined README.md for both projects, which involves A/B testing for bidding methods and rating product & sorting reviews on Amazon. This README provides a coherent overview for both areas of focus, integrating them into a single documentation resource:
-
 ```markdown
 # Combined Project: A/B Testing for Bidding Methods & Rating Products and Sorting Reviews on Amazon
 
